@@ -22,4 +22,10 @@ compiler for pascal-like language
 # Note:
   if there is an error file, overwrite it with the files in this repository.
   
- 
+# Progress so far
+![Error message](images/errMsg1.png)
+Simple error message
+![successfully compiled](images/compile1.png)
+Berhasil di-compile
+![disassemble](images/asm1.png)
+Hasil sudah bisa diubah menjadi assembly
